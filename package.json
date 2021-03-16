@@ -1,0 +1,19 @@
+{
+  "name": "create-blockchain",
+  "version": "1.0.0",
+  "description": "blockchain creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shanejames90/create-blockchain.git"
+  },
+  "author": "shane james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanejames90/create-blockchain/issues"
+  },
+  "homepage": "https://github.com/shanejames90/create-blockchain#readme"
+}
